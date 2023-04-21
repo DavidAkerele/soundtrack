@@ -1,0 +1,50 @@
+.det {
+  display: flex;
+  gap: 20px;
+  padding-top: 40px;
+}
+/* .det-inner{
+    height:33px;
+    display: flex;
+    flex-direction: column;
+
+} */
+.det-inner h2 {
+  font-size: 13px;
+  font-weight: medium;
+}
+
+.det-inner h3 {
+  font-size: 12px;
+  font-weight: normal;
+  color: #2c3a4b;
+}
+
+.twol p {
+  font-size: 14px;
+  font-weight: normal;
+  padding-top: 40px;
+}
+
+.twol h1 {
+  font-size: 50px;
+  font-weight: normal;
+  padding-bottom: 20px;
+}
+
+.herothree-cont {
+  display: flex;
+  position: relative;
+  width: 1250px;
+  height: 866px;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px auto;
+  padding-top: 10px;
+}
+
+.threer img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

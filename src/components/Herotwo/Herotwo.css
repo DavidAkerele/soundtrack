@@ -1,0 +1,54 @@
+.herotwo-cont{
+    display:flex;
+    position: relative;
+    width: 1250px;
+    height: 866px;
+    align-items: center;
+    /* justify-content: center; */
+    margin: 0px auto;
+}
+
+.det{
+    display: flex;
+    gap: 20px;
+    padding-top: 40px;
+}
+/* .det-inner{
+    height:33px;
+    display: flex;
+    flex-direction: column;
+
+} */
+.det-inner h2{
+    font-size: 13px;
+    font-weight: medium;
+}
+
+.det-inner h3{
+    font-size: 12px;
+    font-weight: normal;
+    color: #2C3A4B;
+}
+
+.twol p{
+    font-size: 14px;
+    font-weight: normal;
+    padding-top:40px;
+}
+
+.twol h1{
+    font-size: 50px;
+    font-weight: normal;
+    padding-bottom: 20px;
+}
+
+.twor img:nth-child(1){
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.twor img:nth-child(2){
+    position: absolute;
+    right:107px;
+    top: 432px;
+}
