@@ -2,6 +2,9 @@
 below is the design,
 there was no mobile design so i havent made it responsive yet
 
+### Link to the design:
+https://www.figma.com/file/3ncEhbRNyESJ3taXmImQFt/Website-Landing-Page-(Community)?node-id=1%3A2&t=FH5w54sRvfeR5Z6U-1
+
 <img width="1440" alt="Homepage" src="https://user-images.githubusercontent.com/104978550/233750186-e391cfa4-0b20-4a83-8234-6bdf4d8a2f0b.png">
 
 
