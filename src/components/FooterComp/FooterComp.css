@@ -1,0 +1,29 @@
+.brack{
+    width: 600.22px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+.brackl p{
+   font-size:25px;
+   font-weight:700;
+   color: grey;
+}
+.brackm{
+    width: 400px;
+}
+
+
+.brackm h1{
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.brackm p{
+    color: grey;
+    font-size:25px;
+    font-weight:normal;
+}
+

@@ -1,0 +1,18 @@
+.footercont{
+    display: flex;
+    align-items: center;
+    width: 1250px;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.footerl h1{
+    font-size: 60px;
+    font-weight: normal;
+}
+
+.footerl p{
+    font-size: 14px;
+    font-weight: normal;
+    color: grey;
+}
